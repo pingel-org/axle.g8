@@ -5,7 +5,6 @@ object Dependencies {
   lazy val axle = Seq(
     "org.axle-lang" %% "axle-core"  % "0.6.3",
     "org.axle-lang" %% "axle-xml"   % "0.6.3",
-    "org.axle-lang" %% "axle-jung"  % "0.6.3",
     "org.axle-lang" %% "axle-jblas" % "0.6.3",
     "org.axle-lang" %% "axle-joda"  % "0.6.3"
   )
