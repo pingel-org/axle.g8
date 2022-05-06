@@ -21,8 +21,7 @@ object Dependencies {
 
   // for animations
   lazy val monix = Seq(
-    "io.monix"               %% "monix-reactive"    % "2.3.0",
-    "io.monix"               %% "monix-cats"        % "2.3.0"
+    "io.monix"               %% "monix-reactive"    % "3.4.0"
   )
 
   // needed by axle-joda
