@@ -33,7 +33,7 @@ object Dependencies {
   lazy val jblas = "org.jblas"              % "jblas"              % "1.2.4"
 
   // needed by axle-xml
-  lazy val scalaXml = "org.scala-lang.modules" %% "scala-xml"         % "1.3.0"
+  lazy val scalaXml = "org.scala-lang.modules" %% "scala-xml"         % "2.0.1"
 
   lazy val scalaTest = "org.scalatest" %% "scalatest" % "3.2.11"
 }
