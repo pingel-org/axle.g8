@@ -3,10 +3,10 @@ import sbt._
 object Dependencies {
 
   lazy val axle = Seq(
-    "org.axle-lang" %% "axle-core"  % "0.6.5",
-    "org.axle-lang" %% "axle-xml"   % "0.6.5",
-    "org.axle-lang" %% "axle-jblas" % "0.6.5",
-    "org.axle-lang" %% "axle-joda"  % "0.6.5"
+    "org.axle-lang" %% "axle-core"  % "0.6.6",
+    "org.axle-lang" %% "axle-xml"   % "0.6.6",
+    "org.axle-lang" %% "axle-jblas" % "0.6.6",
+    "org.axle-lang" %% "axle-joda"  % "0.6.6"
   )
 
   // needed by axle-jung (and for unit conversions)
